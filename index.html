@@ -6,14 +6,45 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Kami I">
 
+    <link rel="icon" href="assets/logo/web-page-logo.svg" type="image/svg"/>
 	<title>Kamil Iwaniak</title>
 
+    <link rel="stylesheet" href="assets/fonts/fonts.css" type="text/css"/>
 	<link rel="stylesheet" href="body.css" type="text/css"/>
-    <link rel="stylesheet" href="article.css" type="text/css"/>
-    <link rel="stylesheet" href="figure.css" type="text/css"/>
+    <link rel="stylesheet" href="header.css" type="text/css"/>
+    <link rel="stylesheet" href="nav.css" type="text/css"/>
 </head>
 
 <body>
+<header class="mp-header">
+    <img
+         class="logo-on-white"
+         src="assets/logo/logo-white-bg.svg"
+         alt="logo"
+    />
+</header>
+
+<nav class="mp-nav">
+    <ul>
+        <li><a href="">PORTFOLIO</a></li>
+        <li><a href="">CERTIFICATES & DIPLOMAS</a></li>
+        <li class="dropdown">
+            <button
+                    class="dropdown-toggle"
+                    aria-expanded="false"
+                    aria-controls="dropdown-links">
+                    MY LINKS
+            </button>
+            <ul id="dropdown-links" class="submenu" hidden>
+                <li><a href="">LinkedIn</a></li>
+                <li><a href="">GitHub</a></li>
+                <li><a href="">Coursera</a></li>
+            </ul>
+        </li>
+        <li><a href="">ABOUT ME</a></li>
+        <li><a href="">CONTACT</a></li>
+    </ul>
+</nav>
 
 
 
@@ -33,5 +64,8 @@
 
 
 
+
+
+<script src="my-links.js"></script>
 </body>
 </html>

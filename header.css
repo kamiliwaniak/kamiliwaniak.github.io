@@ -1,0 +1,15 @@
+
+.mp-header {
+    width: 100vw;
+    height: 150px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.logo-on-white {
+    height: 280px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+

@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ffda317-96d3-414e-95c9-e1fdde0d08a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/article.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figure.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20_08_2025_13_56_[Changes]/shelved.patch" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo/logo-black-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo/logo-black-bg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo/logo-white-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo/logo-white-bg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo/web-page-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo/web-page-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-links.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nav.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/body.css" beforeDir="false" afterPath="$PROJECT_DIR$/body.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +28,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -69,13 +76,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="B:\JetBrains\Projekty JetBrains\Webstorm\MySit\assets\logo" />
       <recent name="B:\JetBrains\Projekty JetBrains\Projekty WebStorm\MySite\meta" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-WS-252.23892.411" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.26830.93" />
       </set>
     </attachedChunks>
   </component>
@@ -92,6 +100,7 @@
       <workItem from="1755715079171" duration="1019000" />
       <workItem from="1755723202782" duration="3130000" />
       <workItem from="1757249079442" duration="114000" />
+      <workItem from="1759787182607" duration="15939000" />
     </task>
     <servers />
   </component>
