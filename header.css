@@ -14,10 +14,6 @@
     margin-left: 30px;
 }
 
-.burger-ico {
-    height: 160px;
-    display: none;
-}
 
 @media (max-width: 1000px) {
     .logo-on-white {
@@ -25,9 +21,4 @@
     }
 }
 
-@media (max-width: 1000px) {
-    .burger-ico {
-        display: block;
-    }
-}
 
