@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ffda317-96d3-414e-95c9-e1fdde0d08a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/logo-black-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/logo-black-bg.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/logo-white-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/logo-white-bg.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/web-page-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/web-page-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-links.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nav.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-links.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-links.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +90,9 @@
       <workItem from="1755715079171" duration="1019000" />
       <workItem from="1755723202782" duration="3130000" />
       <workItem from="1757249079442" duration="114000" />
-      <workItem from="1759787182607" duration="15939000" />
+      <workItem from="1759787182607" duration="16390000" />
+      <workItem from="1759862814752" duration="664000" />
+      <workItem from="1760024267485" duration="2019000" />
     </task>
     <servers />
   </component>

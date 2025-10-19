@@ -9,7 +9,25 @@
 
 .logo-on-white {
     height: 280px;
+    transition: height 0.8s ease;
     margin-top: 15px;
     margin-left: 30px;
+}
+
+.burger-ico {
+    height: 160px;
+    display: none;
+}
+
+@media (max-width: 1000px) {
+    .logo-on-white {
+        height: 250px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .burger-ico {
+        display: block;
+    }
 }
 

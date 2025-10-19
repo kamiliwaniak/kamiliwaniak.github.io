@@ -13,17 +13,39 @@
 	<link rel="stylesheet" href="body.css" type="text/css"/>
     <link rel="stylesheet" href="header.css" type="text/css"/>
     <link rel="stylesheet" href="nav.css" type="text/css"/>
+    <link rel="stylesheet" href="popup.css" type="text/css"/>
 </head>
 
 <body>
+
+<!-- PopUp -->
+<div class="popup-overlay" id="popup-overlay">
+    <div class="popup-screen">
+        <div class="popup-content">
+            <h1>A few more lines of code...</h1>
+            <p>Still working on improving my website. The full version will be available soon.</p>
+            <button class="close-popup">OK</button>
+        </div>
+    </div>
+</div>
+
+<!-- Header -->
 <header class="mp-header">
     <img
          class="logo-on-white"
          src="assets/logo/logo-white-bg.svg"
          alt="logo"
     />
+    <div class="burger-menu">
+        <img
+                class="burger-ico"
+                src="assets/logo/burger.png"
+                alt="logo"
+        />
+    </div>
 </header>
 
+<!-- Navigation -->
 <nav class="mp-nav">
     <ul>
         <li><a href="">PORTFOLIO</a></li>
@@ -66,6 +88,7 @@
 
 
 
+<script src="popup.js"></script>
 <script src="my-links.js"></script>
 </body>
 </html>

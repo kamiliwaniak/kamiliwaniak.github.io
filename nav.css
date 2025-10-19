@@ -5,6 +5,9 @@
     display: flex;
     justify-content: flex-start;
     padding-top: 20px;
+    opacity: 1;
+    visibility: visible;
+    transition: opacity 0.4s ease, visibility 0.4s ease;
 }
 
 .mp-nav ul {
@@ -14,8 +17,8 @@
 }
 
 .mp-nav li {
-    font-family: Raleway, sans-serif;
-    font-size: 1.5rem;
+    font-family: var(--main-font), sans-serif;
+    font-size: clamp(12px, 1.5rem, 40px);
 }
 
 .mp-nav li + li {
@@ -24,7 +27,7 @@
 
 .mp-nav a {
     text-decoration: none;
-    color: #000000;
+    color: #ffffff;
 }
 
 .dropdown-toggle {
@@ -33,5 +36,14 @@
     padding: 0;
     cursor: pointer;
     font: inherit;
-    color: inherit;
+    color: #ffffff;
+}
+
+@media (max-width: 1000px) {
+    .mp-nav {
+        opacity: 0;
+        visibility: hidden;
+        pointer-events: none;
+    }
+
 }

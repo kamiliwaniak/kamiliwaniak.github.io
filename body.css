@@ -1,5 +1,13 @@
+
+:root {
+    --color-primary: #00FF6B;
+    --color-secondary: #FF0B6B;
+    --main-font: "Raleway";
+}
+
 body {
     margin: 0;
     height: 100vh;
     padding: 0;
+    background-color: #202020;
 }
