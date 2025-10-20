@@ -5,8 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ffda317-96d3-414e-95c9-e1fdde0d08a8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/icons/main-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/variables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/components/my-links.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-links.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-links.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/logo/burger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/logo/logo-black-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/logo/logo-black-bg.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icons/logo-black-bg.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/logo/logo-white-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/logo/logo-white-bg.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icons/logo-white-bg.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/logo/web-page-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icons/web-page-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/logo/web-page-logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icons/web-page-logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/body.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/body.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/components/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-links.js" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/components/nav.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/components/popup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/popup.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +55,6 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="sortByType" value="true" />
-    <option name="sortKey" value="BY_TYPE" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
@@ -50,9 +65,11 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;B:/JetBrains/Projekty JetBrains/Webstorm/MySite&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -66,9 +83,22 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="B:\JetBrains\Projekty JetBrains\Webstorm\MySit\assets\logo" />
-      <recent name="B:\JetBrains\Projekty JetBrains\Projekty WebStorm\MySite\meta" />
+      <recent name="B:\JetBrains\Projekty JetBrains\Webstorm\MySite\js\components" />
+      <recent name="B:\JetBrains\Projekty JetBrains\Webstorm\MySite\css\components" />
+      <recent name="B:\JetBrains\Projekty JetBrains\Webstorm\MySite\css" />
+      <recent name="B:\JetBrains\Projekty JetBrains\Webstorm\MySite\js" />
+      <recent name="B:\JetBrains\Projekty JetBrains\Webstorm\MySite\assets\icons" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MySite/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -93,6 +123,8 @@
       <workItem from="1759787182607" duration="16390000" />
       <workItem from="1759862814752" duration="664000" />
       <workItem from="1760024267485" duration="2019000" />
+      <workItem from="1760884613762" duration="18595000" />
+      <workItem from="1760976253712" duration="3155000" />
     </task>
     <servers />
   </component>

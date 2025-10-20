@@ -6,14 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Kami I">
 
-    <link rel="icon" href="assets/logo/web-page-logo.svg" type="image/svg"/>
+    <link rel="icon" href="assets/icons/web-page-logo.svg" type="image/svg"/>
 	<title>Kamil Iwaniak</title>
 
-    <link rel="stylesheet" href="assets/fonts/fonts.css" type="text/css"/>
-	<link rel="stylesheet" href="body.css" type="text/css"/>
-    <link rel="stylesheet" href="header.css" type="text/css"/>
-    <link rel="stylesheet" href="nav.css" type="text/css"/>
-    <link rel="stylesheet" href="popup.css" type="text/css"/>
+    <link rel="stylesheet" href="css/main.css" type="text/css"/>
 </head>
 
 <body>
@@ -22,9 +18,11 @@
 <div class="popup-overlay" id="popup-overlay">
     <div class="popup-screen">
         <div class="popup-content">
-            <h1>A few more lines of code...</h1>
-            <p>Still working on improving my website. The full version will be available soon.</p>
-            <button class="close-popup">OK</button>
+            <h1 class="popup-header">A few more lines of code...</h1>
+            <p class="popup-desc">Still working on improving my website. The full version will be available soon.</p>
+            <button class="close-popup">
+                <span class="button-content">OK</span>
+            </button>
         </div>
     </div>
 </div>
@@ -33,7 +31,7 @@
 <header class="mp-header">
     <img
          class="logo-on-white"
-         src="assets/logo/logo-white-bg.svg"
+         src="assets/icons/main-logo.svg"
          alt="logo"
     />
 </header>
@@ -80,8 +78,6 @@
 
 
 
-
-<script src="popup.js"></script>
-<script src="my-links.js"></script>
+<script type="module" src="js/main.js"></script>
 </body>
 </html>
