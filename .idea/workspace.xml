@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ffda317-96d3-414e-95c9-e1fdde0d08a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/icons/logo-marquee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/star-marquee.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/components/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/components/header.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/components/nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/components/nav.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/variables.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/variables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/components/popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/components/popup.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +109,7 @@
       <workItem from="1759862814752" duration="664000" />
       <workItem from="1760024267485" duration="2019000" />
       <workItem from="1760884613762" duration="18595000" />
-      <workItem from="1760976253712" duration="12692000" />
+      <workItem from="1760976253712" duration="13171000" />
     </task>
     <servers />
   </component>

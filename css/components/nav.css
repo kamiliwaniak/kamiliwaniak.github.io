@@ -36,6 +36,16 @@
     cursor: pointer;
 }
 
+.menu-text {
+    width: fit-content;
+    height: 40px;
+}
+
+.menu-text:hover {
+    transform: scale(0.9);
+}
+
+
 .marquee-content {
     position: absolute;
     left: 0;
@@ -49,14 +59,12 @@
     z-index: 1;
 }
 
-
 .logo-marquee {
     height: 100px;
 }
 .star-marquee {
     height: 40px;
 }
-
 
 @keyframes marquee-scroll {
     0% {
