@@ -4,3 +4,9 @@
     --color-secondary: #FF0B6B;
     --main-font: "Raleway";
 }
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

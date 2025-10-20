@@ -7,16 +7,20 @@
     align-items: center;
 }
 
-.logo-on-white {
+.logo {
     height: 280px;
-    transition: height 0.8s ease;
     margin-top: 15px;
     margin-left: 30px;
+    transition: height 1s ease;
 }
 
 
 @media (max-width: 1000px) {
-    .logo-on-white {
+    .mp-header {
+        justify-content: center;
+    }
+
+    .logo {
         height: 250px;
     }
 }
