@@ -38,7 +38,7 @@
 
 .menu-text {
     width: fit-content;
-    height: 40px;
+    height: fit-content;
 }
 
 .menu-text:hover {
