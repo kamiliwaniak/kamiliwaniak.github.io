@@ -53,6 +53,7 @@
     width: 100%;
     height: 100%;
     padding: 5px;
+    margin: auto;
     translate: -50% -50%;
     background-image: conic-gradient(from var(--angle), #FF0B6B, #d67301, #FF0B6B);
     border-radius: 20px;
