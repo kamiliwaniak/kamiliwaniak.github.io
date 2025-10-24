@@ -1,4 +1,6 @@
 
+/*============Desktop Nav============*/
+
 .mp-nav {
     width: 100vw;
     height: 300px;
@@ -8,8 +10,38 @@
     opacity: 1;
     visibility: visible;
     transition: opacity 0.4s ease, visibility 0.4s ease;
-    font-weight: 600;
 }
+
+.mp-nav ul {
+    margin-top: 0;
+    margin-left: 30px;
+    list-style: none;
+}
+
+.mp-nav li {
+    font-family: var(--main-font), sans-serif;
+    font-size: clamp(12px, 1.5rem, 40px);
+}
+
+.mp-nav li + li {
+    margin-top: 15px;
+}
+
+.mp-nav a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.dropdown-toggle {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    font: inherit;
+    color: #ffffff;
+}
+
+/*============Mobile Nav============*/
 
 .mp-nav-mobile {
     display: none;
@@ -76,37 +108,9 @@
     }
 }
 
-.mp-nav ul {
-    margin-top: 0;
-    margin-left: 30px;
-    list-style: none;
-}
 
-.mp-nav li {
-    font-family: var(--main-font), sans-serif;
-    font-size: clamp(12px, 1.5rem, 40px);
-}
+/*============Media Queries============*/
 
-.mp-nav li + li {
-    margin-top: 15px;
-}
-
-.mp-nav a {
-    text-decoration: none;
-    color: #ffffff;
-}
-
-.dropdown-toggle {
-    background: none;
-    border: none;
-    padding: 0;
-    cursor: pointer;
-    font: inherit;
-    color: #ffffff;
-}
-
-
-/* Media Queries */
 @media (max-width: 1000px) {
     .mp-nav {
         display: none;

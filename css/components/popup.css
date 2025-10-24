@@ -25,12 +25,12 @@
     width: clamp(280px, 35vw, 700px);
     height: auto;
     min-height: 40vh;
-    background-color: #ffffff;
+    background-color: #202020;
     position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 20px;
+    border-radius: 15px;
     padding: clamp(1rem, 2vw, 2.5rem);
     box-sizing: border-box;
     text-align: center;
@@ -79,6 +79,7 @@
     padding: 15px 0;
     margin-bottom: 0.5rem;
     line-height: 1.2;
+    color: #ffffff;
 }
 
 .popup-desc {
@@ -87,6 +88,7 @@
     max-width: 90%;
     margin: 0 auto;
     line-height: 1.4;
+    color: #ffffff;
 }
 
 .close-popup {
@@ -106,6 +108,7 @@
 .close-popup:hover {
     opacity: 0.9;
     transform: scale(0.9);
+    box-shadow: 0 0 10px rgba(0, 255, 76, 0.9);
 }
 
 
