@@ -4,18 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ffda317-96d3-414e-95c9-e1fdde0d08a8" name="Changes" comment="" />
+    <list default="true" id="9ffda317-96d3-414e-95c9-e1fdde0d08a8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/imports/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_files/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_files/js/components/my-links.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/old_files/assets/fonts/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/logo-black-bg.svg" beforeDir="false" afterPath="$PROJECT_DIR$/old_files/assets/icons/logo-black-bg.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/logo-marquee.png" beforeDir="false" afterPath="$PROJECT_DIR$/old_files/assets/icons/logo-marquee.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/logo-white-bg.svg" beforeDir="false" afterPath="$PROJECT_DIR$/old_files/assets/icons/logo-white-bg.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/main-logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/old_files/assets/icons/main-logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/star-marquee.png" beforeDir="false" afterPath="$PROJECT_DIR$/old_files/assets/icons/star-marquee.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/star-marquee.svg" beforeDir="false" afterPath="$PROJECT_DIR$/old_files/assets/icons/star-marquee.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/web-page-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/old_files/assets/icons/web-page-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/web-page-logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/old_files/assets/icons/web-page-logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/body.css" beforeDir="false" afterPath="$PROJECT_DIR$/old_files/css/body.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/components/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/old_files/css/components/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/components/nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/old_files/css/components/nav.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/components/popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/old_files/css/components/popup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/variables.css" beforeDir="false" afterPath="$PROJECT_DIR$/old_files/css/variables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/components/my-links.js" beforeDir="false" afterPath="$PROJECT_DIR$/component_header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/components/popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/old_files/js/components/popup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/old_files/js/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="29" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -36,39 +64,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.index.html.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "B:/JetBrains/Projekty JetBrains/Webstorm/MySite",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;B:/JetBrains/Projekty JetBrains/Webstorm/MySite&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="B:\JetBrains\Projekty JetBrains\Webstorm\MySite" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="B:\JetBrains\Projekty JetBrains\Webstorm\MySite\historical_file" />
+      <recent name="B:\JetBrains\Projekty JetBrains\Webstorm\MySite\historical_file\js" />
       <recent name="B:\JetBrains\Projekty JetBrains\Webstorm\MySite\assets\icons" />
       <recent name="B:\JetBrains\Projekty JetBrains\Webstorm\MySite\js\components" />
       <recent name="B:\JetBrains\Projekty JetBrains\Webstorm\MySite\css\components" />
-      <recent name="B:\JetBrains\Projekty JetBrains\Webstorm\MySite\css" />
-      <recent name="B:\JetBrains\Projekty JetBrains\Webstorm\MySite\js" />
     </key>
   </component>
   <component name="RunManager">
@@ -84,7 +117,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.27397.92" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-WS-253.28294.332" />
       </set>
     </attachedChunks>
   </component>
@@ -109,7 +142,12 @@
       <workItem from="1760993382941" duration="339000" />
       <workItem from="1760994011425" duration="112000" />
       <workItem from="1761054572718" duration="246000" />
-      <workItem from="1761340279643" duration="3679000" />
+      <workItem from="1761340279643" duration="4203000" />
+      <workItem from="1761822855963" duration="77000" />
+      <workItem from="1765648186643" duration="1822000" />
+      <workItem from="1765759891535" duration="67000" />
+      <workItem from="1765759969971" duration="581000" />
+      <workItem from="1765760564031" duration="5457000" />
     </task>
     <servers />
   </component>
