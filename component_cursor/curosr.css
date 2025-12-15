@@ -1,5 +1,4 @@
 
-/* Ukryj systemowy kursor */
 html, body {
     cursor: none;
     background: #000;
@@ -13,26 +12,22 @@ html, body {
     width: 18px;
     height: 18px;
     border-radius: 50%;
-    border: 2px solid #fff;      /* ważne: biały + difference = “odwracanie” */
+    border: 2px solid #fff;
     background: transparent;
     transform: translate(-50%, -50%);
-    pointer-events: none;         /* żeby kursor nie blokował hoverów */
+    pointer-events: none;
     z-index: 999999;
 
-    /* magia inwersji */
     mix-blend-mode: difference;
 
-    /* animacje */
     transition: transform 140ms ease, width 140ms ease, height 140ms ease, border-width 140ms ease;
     will-change: transform;
 }
 
-/* “pointer” = lekko większy */
 #cursor.is-pointer {
     transform: translate(-50%, -50%) scale(1.6);
 }
 
-/* opcjonalnie: klik = lekko mniejszy */
 #cursor.is-down {
     transform: translate(-50%, -50%) scale(1.2);
 }
