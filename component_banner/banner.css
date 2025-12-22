@@ -8,7 +8,7 @@
 
 
 
-@media (max-width: 768px) {
+@media (max-width: 780px) {
 	.main-banner {
 		background: center / contain no-repeat url(../common/images/mobile-background-logo.svg);
 		background-size: 130%;
