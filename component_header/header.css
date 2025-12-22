@@ -31,3 +31,15 @@
     margin-left: 20%;
     padding: 0;
 }
+
+
+@media (max-width: 768px) {
+    .header-logo {
+        width: 100%;
+        background-position: center;
+        background-size: min(130%, 300px);
+    }
+    .main-nav {
+        display: none;
+    }
+}

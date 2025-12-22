@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ffda317-96d3-414e-95c9-e1fdde0d08a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/common/images/header-logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/common/fonts/fonts.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/background-logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/common/images/background-logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/mobile-background-logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/common/images/mobile-background-logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/component_banner/banner.css" beforeDir="false" afterPath="$PROJECT_DIR$/component_banner/banner.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/component_header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/component_header/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imports/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/imports/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +132,7 @@
       <workItem from="1765759891535" duration="67000" />
       <workItem from="1765759969971" duration="581000" />
       <workItem from="1765760564031" duration="6146000" />
-      <workItem from="1766358005655" duration="11543000" />
+      <workItem from="1766358005655" duration="11862000" />
     </task>
     <servers />
   </component>
