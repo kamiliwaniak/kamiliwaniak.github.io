@@ -48,9 +48,12 @@
 }
 
 @media (max-width: 780px) {
+	.main-header {
+		justify-content: flex-start;
+	}
     .header-logo {
 		width: 70%;
-		background-position: center;
+		background-position: right;
 		background-size: auto 165px;
 		transition: all 1s ease;
     }
