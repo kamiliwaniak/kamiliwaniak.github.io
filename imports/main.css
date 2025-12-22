@@ -1,2 +1,11 @@
-@import url("../component_header/header.css");
+/*BODY*/
+@import url("../body.css");
+
+/*CURSOR*/
 @import url("../component_cursor/curosr.css");
+
+/*HEADER*/
+@import url("../component_header/header.css");
+
+/*BANNER*/
+@import url("../component_banner/banner.css");

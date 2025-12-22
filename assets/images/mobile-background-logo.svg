@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 3840 2160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(0.745266,0,0,0.745266,514.684783,16.964691)">
+        <text x="460.851px" y="1399.787px" style="font-family:'Saint-Regular', 'Saint';font-size:1122.778px;fill:rgb(255,0,40);">KA<tspan x="2094.493px " y="1399.787px ">M</tspan></text>
+        <g transform="matrix(1122.777705,0,0,1122.777705,2182.069286,2370.289778)">
+        </g>
+        <text x="460.851px" y="2370.29px" style="font-family:'Saint-Regular', 'Saint';font-size:1122.778px;fill:rgb(255,0,40);">IL</text>
+    </g>
+    <g transform="matrix(0.653774,0,0,0.653774,1814.219446,-68.853624)">
+        <text x="518.298px" y="2237.602px" style="font-family:'Saint-Regular', 'Saint';font-size:528.07px;fill:rgb(21,0,255);">IWA</text>
+        <g transform="matrix(528.069726,0,0,528.069726,2234.524481,2826.927938)">
+        </g>
+        <text x="518.298px" y="2826.928px" style="font-family:'Saint-Regular', 'Saint';font-size:528.07px;fill:rgb(21,0,255);">NIA<tspan x="1814.709px " y="2826.928px ">K</tspan></text>
+    </g>
+</svg>

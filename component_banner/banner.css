@@ -1,0 +1,14 @@
+.main-banner {
+	width: 100%;
+	height: calc(100vh - 80px);
+	background: center / contain no-repeat url(../assets/images/background-logo.svg);
+	background-size: 100%;
+}
+
+
+@media (max-width: 768px) {
+	.main-banner {
+		background: center / contain no-repeat url(../assets/images/mobile-background-logo.svg);
+		background-size: 130%;
+	}
+}
