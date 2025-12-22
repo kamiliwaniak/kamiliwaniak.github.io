@@ -78,3 +78,9 @@ window.addEventListener("blur", hideCursor);
 document.addEventListener("visibilitychange", () => {
     if (document.hidden) hideCursor();
 });
+
+window.addEventListener("touchstart", () => {
+    cursor.style.display = "none";
+    document.documentElement.style.cursor = "auto";
+    document.body.style.cursor = "auto";
+}, { once: true });

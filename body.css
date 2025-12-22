@@ -4,3 +4,9 @@ body, html {
 	background: #e8e8e8;
 	cursor: none;
 }
+
+@media (hover: none), (pointer: coarse) {
+	body {
+		cursor: auto;
+	}
+}
