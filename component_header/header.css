@@ -1,5 +1,33 @@
 .main-header {
     width: 100vw;
     height: 80px;
-    background-color: #971515;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Space Mono", monospace;
+}
+
+.header-logo {
+    height: 100%;
+    width: 25%;
+    background-image: url(../common/images/header-logo.svg);
+    background-repeat: no-repeat;
+    background-position: left 10px center;
+    background-size: min(80%, 380px);
+}
+
+.main-nav {
+    width: 75%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.main-nav ul {
+    list-style: none;
+    display: flex;
+    gap: 50%;
+    margin-left: 20%;
+    padding: 0;
 }

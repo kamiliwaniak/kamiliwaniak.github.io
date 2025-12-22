@@ -1,14 +1,22 @@
 .main-banner {
 	width: 100%;
 	height: calc(100vh - 80px);
-	background: center / contain no-repeat url(../assets/images/background-logo.svg);
+	background: center / contain no-repeat url(../common/images/background-logo.svg);
 	background-size: 100%;
 }
 
 
+@media (max-width: 1110px) {
+	.main-banner {
+		background: center / contain no-repeat url(../common/images/background-logo.svg);
+		background-size: 100%;
+		margin: auto;
+	}
+}
+
 @media (max-width: 768px) {
 	.main-banner {
-		background: center / contain no-repeat url(../assets/images/mobile-background-logo.svg);
+		background: center / contain no-repeat url(../common/images/mobile-background-logo.svg);
 		background-size: 130%;
 	}
 }

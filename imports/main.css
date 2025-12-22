@@ -1,6 +1,9 @@
 /*BODY*/
 @import url("../body.css");
 
+/*FONTS*/
+@import url("../common/fonts/fonts.css");
+
 /*CURSOR*/
 @import url("../component_cursor/curosr.css");
 
