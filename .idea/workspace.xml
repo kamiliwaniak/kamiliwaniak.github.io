@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ffda317-96d3-414e-95c9-e1fdde0d08a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/background-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/body.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component_banner/banner.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/logo-black-bg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/logo-marquee.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/logo-white-bg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/main-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/star-marquee.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/star-marquee.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/web-page-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/web-page-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/component_cursor/curosr.css" beforeDir="false" afterPath="$PROJECT_DIR$/component_cursor/curosr.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/component_header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/component_header/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imports/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/imports/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imports/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/imports/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/background-logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/background-logo.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,10 +83,10 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="B:\JetBrains\Projekty JetBrains\Webstorm\MySite\assets\images" />
+      <recent name="B:\JetBrains\Projekty JetBrains\Webstorm\MySite\assets" />
       <recent name="B:\JetBrains\Projekty JetBrains\Webstorm\MySite" />
       <recent name="B:\JetBrains\Projekty JetBrains\Webstorm\MySite\component_cursor" />
       <recent name="B:\JetBrains\Projekty JetBrains\Webstorm\MySite\historical_file" />
-      <recent name="B:\JetBrains\Projekty JetBrains\Webstorm\MySite\historical_file\js" />
     </key>
   </component>
   <component name="RunManager">
@@ -148,7 +133,7 @@
       <workItem from="1765759891535" duration="67000" />
       <workItem from="1765759969971" duration="581000" />
       <workItem from="1765760564031" duration="6146000" />
-      <workItem from="1766358005655" duration="5840000" />
+      <workItem from="1766358005655" duration="7783000" />
     </task>
     <servers />
   </component>
