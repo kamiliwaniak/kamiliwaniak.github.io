@@ -1,8 +1,56 @@
 .scroller-section {
 	width: 100vw;
 	height: 80px;
-	background-color: #166497;
 	display: flex;
 	justify-content: center;
 	align-items: center;
+}
+
+.lines {
+	width: 200px;
+	height: 2px;
+	background-color: #FF0028;
+	transition: 1s ease;
+}
+
+.scroll-down-button {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	background-image: url(../common/images/scroll-down-button.svg);
+	margin: 50px;
+	flex-shrink: 0;
+	transition: 1s ease;
+	animation: bounce 2s ease-in-out infinite;
+	will-change: transform;
+}
+
+@keyframes bounce {
+	0%, 100% { transform: translateY(0); }
+	50%      { transform: translateY(-10px); }
+}
+
+
+
+@media (max-width: 1248px) {
+}
+
+@media (max-width: 780px) {
+	.lines {
+		width: 150px;
+	}
+	.scroll-down-button {
+		width: 25px;
+		height: 25px;
+		margin: 35px;
+	}
+}
+
+@media (max-width: 462px) {
+	.lines {
+		width: 100px;
+	}
+	.scroll-down-button {
+		margin: 25px;
+	}
 }

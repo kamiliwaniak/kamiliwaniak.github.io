@@ -62,7 +62,7 @@
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 462px) {
 	.header-logo {
 		background-size: auto 150px;
 		transition: all 1s ease;
