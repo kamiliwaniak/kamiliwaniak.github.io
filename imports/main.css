@@ -13,5 +13,8 @@
 /*BANNER*/
 @import url("../component_banner/banner.css");
 
-/*BANNER*/
+/*SCROLLER*/
 @import url("../component_scroller/scroller.css");
+
+/*HUB*/
+@import url("../component_hub/hub.css");
