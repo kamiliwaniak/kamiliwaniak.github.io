@@ -36,6 +36,13 @@
 	transition: all 1s ease;
 }
 
+.main-nav a {
+	text-decoration: none;
+	color: #000000;
+	cursor: none;
+}
+
+
 /*MEDIA QUERIES*/
 
 @media (min-width: 780px) {

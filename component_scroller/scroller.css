@@ -25,6 +25,12 @@
 	will-change: transform;
 }
 
+.scroll-down-button {
+	text-decoration: none;
+	color: #000000;
+	cursor: none;
+}
+
 @keyframes bounce {
 	0%, 100% { transform: translateY(0); }
 	50%      { transform: translateY(-10px); }

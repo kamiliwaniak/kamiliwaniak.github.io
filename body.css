@@ -3,6 +3,7 @@ body, html {
 	padding: 0;
 	background: #e8e8e8;
 	cursor: none;
+	scroll-behavior: smooth !important;
 }
 
 ::-webkit-scrollbar {
