@@ -23,43 +23,43 @@
 .facebook { grid-area: 6 / 6 / 7 / 7; }
 
 .projects {
-	background: #000000;
+	background: #ff0000;
 }
 
 .stack {
-	background: #000000;
+	background: #ff4d00;
 }
 
 .certificates {
-	background: #000000;
+	background: #ff9900;
 }
 
 .experience {
-	background: #000000;
+	background: #ffea00;
 }
 
 .education {
-	background: #000000;
+	background: #aaff00;
 }
 
 .about_me {
-	background: #000000;
+	background: #00ff80;
 }
 
 .linkedin {
-	background: #000000;
+	background: #00ffff;
 }
 
 .coursera {
-	background: #000000;
+	background: #0059ff;
 }
 
 .github {
-	background: #000000;
+	background: #4800ff;
 }
 
 .facebook {
-	background: #000000;
+	background: #ee00ff;
 }
 
 @media (max-width: 1248px) {

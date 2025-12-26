@@ -65,7 +65,6 @@
 	.scroll-down-button {
 		width: 25px;
 		height: 25px;
-		margin: 35px;
 	}
 }
 
@@ -74,6 +73,11 @@
 		width: 100px;
 	}
 	.scroll-down-button {
-		margin: 25px;
+	}
+}
+
+@media (max-width: 354px) {
+	.lines {
+		width: 85px;
 	}
 }

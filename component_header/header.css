@@ -77,20 +77,31 @@
 		justify-content: center;
 		flex-direction: column;
 		margin-right: -50%;
-		background: #FF0028;
+		background-image: url(../common/images/hamburger-menu-icon.svg);
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: auto 30px;
+		transition: all 1s ease;
 	}
 }
 
 @media (max-width: 462px) {
 	.header-logo {
 		background-size: auto 160px;
-		width: 75%;
+		width: 80%;
 	}
 	.main-nav {
-		width: 25%;
+		width: 20%;
 	}
 	.hamburger {
 		margin-right: 0;
+		background-size: auto 28px;
+	}
+}
+
+@media (max-width: 354px) {
+	.header-logo {
+		background-size: auto 150px;
 	}
 }
 
