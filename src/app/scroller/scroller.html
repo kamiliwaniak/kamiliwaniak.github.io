@@ -1,0 +1,22 @@
+<!-- SCROLLER -->
+<section class="scroller-section" [class.scroller--dark]="theme === 'dark'">
+  <span class="lines"></span>
+
+  <a
+    class="scroll-btn"
+    [ngClass]="'btn--' + icon"
+    [attr.href]="'#' + target"
+    (click)="scrollTo(target, $event)"
+  ></a>
+
+  @if (icon2 && target2) {
+    <a
+      class="scroll-btn"
+      [ngClass]="'btn--' + icon2"
+      [attr.href]="'#' + target2"
+      (click)="scrollTo(target2, $event)"
+    ></a>
+  }
+
+  <span class="lines"></span>
+</section>

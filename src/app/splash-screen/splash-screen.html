@@ -1,0 +1,11 @@
+<!--SPLASH SCREEN-->
+<div #splash class="splash" [class.is-hidden]="isHidden">
+  <div #card class="splash_card">
+    <div class="splash_body">
+      <img class="splash_svg" src="assets/images/splash-screen.svg" alt="splash screen" />
+    </div>
+    <div class="splash_actions">
+      <button class="splash_button" type="button" (click)="closeSplash()">Sure</button>
+    </div>
+  </div>
+</div>

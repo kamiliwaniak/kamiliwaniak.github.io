@@ -1,0 +1,25 @@
+#cursor {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: transparent;
+  backdrop-filter: invert(1);
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  z-index: 10000;
+  mix-blend-mode: difference;
+  transition: transform 140ms ease, width 140ms ease, height 140ms ease, border-width 140ms ease;
+  will-change: transform;
+}
+
+#cursor.is-pointer {
+  transform: translate(-50%, -50%) scale(1.6);
+  border: 1px solid #FF0028;
+}
+
+#cursor.is-down {
+  transform: translate(-50%, -50%) scale(1.2);
+}
