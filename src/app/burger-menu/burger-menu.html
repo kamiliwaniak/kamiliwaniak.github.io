@@ -1,0 +1,20 @@
+@if (mobileMenu.open$ | async) {
+  <div class="backdrop" (click)="close()"></div>
+
+  <nav class="panel" (click)="$event.stopPropagation()">
+    <div class="button-container">
+      <div class="burgerBtn" (click)="close()"></div>
+    </div>
+    <div class="burger-option-container">
+      <a (click)="goTo('hub')">Hub</a>
+      <a (click)="goTo('hub')">About me</a>
+      <a href="assets/kamil-iwaniak-cv.pdf" download>CV</a>
+      <a href="https://www.linkedin.com/in/kamil-iwaniak-6a7b4b304/" target="_blank" (click)="close()">LinkedIn</a>
+      <a (click)="goTo('hub')">Contact</a>
+    </div>
+    <div class="burger-footer">
+      <p>Building this site in public</p>
+      <p>&copy;2026 Kamil Iwaniak</p>
+    </div>
+  </nav>
+}
