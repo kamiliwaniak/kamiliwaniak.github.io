@@ -1,0 +1,98 @@
+.backdrop{
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  background: rgba(0, 0, 0, 0.55);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  animation: blur-up 0.5s ease-in forwards;
+}
+
+.panel{
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100dvh;
+  width: min(300px, 75vw);
+  background-color: #FF0028;
+  z-index: 1000;
+  font-family: "Space Mono", monospace;
+  animation: slip-in 0.5s ease-in-out;
+}
+
+.panel a {
+  margin: 10% 0 10% 0;
+}
+
+.button-container {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+.burgerBtn {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  margin-right: 0;
+  background-image: url(../../assets/images/quit-burger-button.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto 30px;
+}
+
+.burger-option-container {
+  width: 100%;
+  height: calc(100% - 150px);
+  background-color: #FF0028;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 25px;
+}
+
+.burger-option-container a {
+  text-decoration: none;
+  cursor: none;
+  color: #171717;
+}
+
+burger-option-container a:active {
+  text-decoration: none;
+  cursor: none;
+  color: #E8E8E8;
+}
+
+.burger-footer {
+  width: 100%;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 10px;
+  color: #ffd6df;
+}
+
+.burger-footer p {
+  margin: 0;
+  padding: 0;
+}
+
+@keyframes blur-up {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slip-in {
+  from { top: 0; right: -1000px }
+  to { transform: translateX(0); }
+}
+
+@media (min-width: 781px){
+  .backdrop, .panel{ display:none; }
+}

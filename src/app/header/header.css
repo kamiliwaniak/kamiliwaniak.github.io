@@ -1,4 +1,5 @@
 .main-header {
+  position: relative;
   width: 100%;
   height: 80px;
   display: flex;
@@ -38,8 +39,16 @@
 
 .main-nav a {
   text-decoration: none;
-  color: #000000;
+  color: #171717;
   cursor: none;
+}
+
+.main-nav a:hover {
+  color: #FF0028;
+}
+
+.main-nav a:active {
+  color: #FF0028;
 }
 
 
@@ -72,11 +81,11 @@
   .burger {
     width: 50px;
     height: 50px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    margin-right: -50%;
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-right: 0;
     background-image: url(../../assets/images/burger-button.svg);
     background-repeat: no-repeat;
     background-position: center;
