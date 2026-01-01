@@ -14,7 +14,7 @@
   right: 0;
   height: 100dvh;
   width: min(300px, 75vw);
-  background-color: #c80028;
+  background-color: #ff003c;
   z-index: 1000;
   font-family: "Space Mono", monospace;
   animation: slip-in 0.5s ease-in-out;
@@ -47,7 +47,7 @@
 .burger-option-container {
   width: 100%;
   height: calc(100% - 150px);
-  background-color: #c80028;
+  background-color: #ff003c;
   display: flex;
   justify-content: center;
   align-items: center;
