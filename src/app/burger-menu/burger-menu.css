@@ -47,7 +47,6 @@
 .burger-option-container {
   width: 100%;
   height: calc(100% - 150px);
-  background-color: #ff003c;
   display: flex;
   justify-content: center;
   align-items: center;
