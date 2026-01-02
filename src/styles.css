@@ -4,6 +4,7 @@ body, html {
   background: #E8E8E8;
   cursor: none;
   scroll-behavior: smooth;
+  box-sizing: border-box;
 }
 
 body.no-scroll,
