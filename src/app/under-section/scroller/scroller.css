@@ -30,9 +30,9 @@
   background-size: contain;
 }
 
-.btn--d-wa { background-image: url('/images/scroll-down-button-wa.svg'); margin: 50px; }
-.btn--up-ba { background-image: url('/images/scroll-up-button-ba.svg');   margin: 25px 12px 25px 25px; }
-.btn--d-ba { background-image: url('/images/scroll-down-button-ba.svg'); margin: 25px 25px 25px 12px; }
+.btn--d-wa { background-image: url('../../../assets/images/scroll-down-button-wa.svg'); margin: 50px; }
+.btn--up-ba { background-image: url('../../../assets/images/scroll-up-button-ba.svg');   margin: 25px 12px 25px 25px; }
+.btn--d-ba { background-image: url('../../../assets/images/scroll-down-button-ba.svg'); margin: 25px 25px 25px 12px; }
 
 @keyframes bounce {
   0%, 100% { transform: translateY(0); }
