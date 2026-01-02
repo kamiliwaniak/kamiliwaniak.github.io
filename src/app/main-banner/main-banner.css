@@ -1,6 +1,6 @@
 .main-banner {
   width: 100%;
-  height: calc(100vh - 140px);
+  height: calc(100dvh - 140px);
   background-image: url(../../assets/images/background-logo.svg);
   background-repeat: no-repeat;
   background-position: center;
