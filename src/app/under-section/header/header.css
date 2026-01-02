@@ -11,7 +11,7 @@
 .header-logo {
   height: 100%;
   width: 40%;
-  background-image: url(../../assets/images/header-logo.svg);
+  background-image: url(../../../assets/images/header-logo.svg);
   background-repeat: no-repeat;
   background-position: left;
   background-size: auto 180px;
@@ -86,7 +86,7 @@
     top: 50%;
     transform: translateY(-50%);
     margin-right: 0;
-    background-image: url(../../assets/images/burger-button.svg);
+    background-image: url(../../../assets/images/burger-button.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: auto 30px;

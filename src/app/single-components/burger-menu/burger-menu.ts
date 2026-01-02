@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterModule } from '@angular/router';
-import { MobileMenuService } from '../shered/mobile-menu';
+import { MobileMenuService } from '../../shered/mobile-menu';
 
 @Component({
   selector: 'app-burger-menu',
