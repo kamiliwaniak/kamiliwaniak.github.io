@@ -1,9 +1,10 @@
 import { AfterViewInit, Component, ElementRef, OnDestroy, Renderer2, ViewChild, HostListener } from '@angular/core';
+import {NgOptimizedImage} from '@angular/common';
 
 @Component({
   selector: 'app-splash-screen',
   standalone: true,
-  imports: [],
+  imports: [NgOptimizedImage],
   templateUrl: './splash-screen.html',
   styleUrl: './splash-screen.css',
 })
