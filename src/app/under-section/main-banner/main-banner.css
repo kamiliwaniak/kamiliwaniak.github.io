@@ -1,7 +1,6 @@
 .main-banner {
   width: 100%;
-  max-height: calc(100% - 140px);
-  min-height: calc(100% - 140px);
+  height: 100%;
   background-image: url(../../../assets/images/background-logo.svg);
   background-repeat: no-repeat;
   background-position: center;
