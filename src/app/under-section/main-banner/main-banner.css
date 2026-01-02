@@ -6,5 +6,9 @@
   background-position: center;
 }
 
-
-
+@media (max-width: 780px) {
+  .main-banner {
+    background: center / contain no-repeat url(../../../assets/images/mobile-background-logo.svg);
+    background-size: 130%;
+  }
+}
