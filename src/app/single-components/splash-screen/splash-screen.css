@@ -74,6 +74,7 @@
   pointer-events: none;
 }
 
+
 @media (max-width: 420px) {
   .splash_card {
     width: min(94vw, 520px);
