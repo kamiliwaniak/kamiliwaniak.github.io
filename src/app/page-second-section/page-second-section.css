@@ -2,5 +2,5 @@
   width: 100%;
   min-height: 100dvh;
   display: grid;
-  grid-template-rows: 1fr 60px; /* hub / scroller */
+  grid-template-rows: 1fr 60px;
 }

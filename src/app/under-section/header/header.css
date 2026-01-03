@@ -52,8 +52,6 @@
 }
 
 
-/*MEDIA QUERIES*/
-
 @media (max-width: 1248px) {
   .main-nav ul {
     width: 85%;
